@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:114232,100:0288D1&height=200&section=header&text=Eya%20Trabelsi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Flutter%20%26%20Full-Stack%20%C2%B7%20AI&descAlignY=58&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:114232,100:0288D1&height=200&section=header&text=Eya%20Trabelsi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Flutter%20and%20Full-Stack%20%C2%B7%20AI&descAlignY=58&descSize=18" alt="Banner" />
 </p>
 
 <p align="center">
   <a href="https://portfolioeyatrabelsi.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0288D1&center=true&vCenter=true&width=650&lines=Flutter+apps+for+Android+%26+iOS+%F0%9F%93%B1;From+architecture+to+production+%F0%9F%9A%80;NestJS+%C2%B7+React+%C2%B7+Angular+%C2%B7+PostgreSQL;1st+Prize+%C2%B7+DarBlockchain+x+Hedera+Hackathon+%F0%9F%8F%86;Open+to+opportunities+%C2%B7+available+immediately" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0288D1&center=true&vCenter=true&width=650&lines=Flutter+apps+for+Android+and+iOS+%F0%9F%93%B1;From+architecture+to+production+%F0%9F%9A%80;NestJS+%C2%B7+React+%C2%B7+Angular+%C2%B7+PostgreSQL;1st+Prize+%C2%B7+DarBlockchain+x+Hedera+Hackathon+%F0%9F%8F%86;Open+to+opportunities+%C2%B7+available+immediately" alt="Typing SVG" />
   </a>
 </p>
 
